@@ -1,0 +1,13 @@
+/* .navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+} */
+
+
+body {
+    heigh:665px;
+    background-image: url("https://s3-eu-west-1.amazonaws.com/de.costa.dam/zc11_b3a768be3c2a491dbffcfa6732d9ecc0/original.jpg?Expires=1849215609&response-content-disposition=inline%3Bfilename%3D1926_1_Island-of-Mykonos-Cyclades-Greece_iStock-672664688_cut.jpg&AWSAccessKeyId=AKIAJAPYK3V2NOQXPVCQ&Signature=reqNgjdwvxVNQAlYLJJkNrI4HsI%3D");
+    background-size: 100%;
+
+  }
